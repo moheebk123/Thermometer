@@ -1,0 +1,13 @@
+body{
+    background-color: slategray;
+    height: 98vh;
+    display: grid;
+    place-items: center;
+}
+p{
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px #fff;
+}
